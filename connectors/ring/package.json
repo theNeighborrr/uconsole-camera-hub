@@ -1,0 +1,9 @@
+{
+  "name": "uconsole-ring-connector",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "dependencies": {
+    "ring-client-api": "14.3.0"
+  }
+}
